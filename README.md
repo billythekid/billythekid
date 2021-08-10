@@ -2,4 +2,4 @@
 ![scotctocat](https://media.githubusercontent.com/avatars/8590085?s=280)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=billythekid&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-octocat](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.mp4)
+
