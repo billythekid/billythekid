@@ -1,4 +1,4 @@
-# 👈 Considered "fairly adept"! 🤠
+# I want to change the world but they won't give me the source code. 🤠
 
 <img src="https://user-images.githubusercontent.com/330170/115613608-84409400-a2e4-11eb-85e8-eb4833953946.gif" width="281"><img src="https://user-images.githubusercontent.com/330170/172357825-00e78954-3c60-4746-aad1-d56c911aa3c1.png" width="281">
 
