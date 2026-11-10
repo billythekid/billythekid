@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td width="58%" align="center" valign="middle">
-      <img src="./assets/billythekid-octocat.png" width="480" alt="Billy the Kid Octocat with a laptop, dartboard, and running haggis">
+      <img src="./assets/billythekid-octocat.png" width="480" alt="billythekid Octocat with a laptop, dartboard, and running haggis">
     </td>
     <td width="42%" valign="top">
-      <h2>Billy the Kid</h2>
+      <h2>billythekid</h2>
       <p><strong>Class</strong><br><code>cowboy-programmer</code></p>
       <p><strong>Companion</strong><br><code>one extremely mobile haggis</code></p>
       <p><strong>Current quest</strong><br>Change the world, pending source-code access.</p>

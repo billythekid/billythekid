@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="./FIELD-MANUAL.md">
-    <img src="./assets/billythekid-octocat.png" width="500" alt="Billy the Kid Octocat">
+    <img src="./assets/billythekid-octocat.png" width="500" alt="billythekid Octocat">
   </a>
 </p>
 
